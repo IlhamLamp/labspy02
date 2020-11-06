@@ -1,7 +1,7 @@
 # TUGAS PRAKTIKUM 2
 
 ## SOAL
-\1_soal\
+![gambar1](gambar/1_soal.PNG)
 
 ## JAWABAN
   - Buka text editor, seperti PyCharm, Visual Studio, Atom, dan lain-lain.
@@ -22,14 +22,14 @@
         12      print('Nilai c paling besar, yaitu', c)
         13
 
-\2_kode\
+![gambar2](gambar/2_kode.PNG)
   - Simpan dengan nama `labspy02.py`, Kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-\3_output\
+  ![gambar3](gambar/3_output.PNG)
 
   - Flowchart dari program tersebut
 
-\4_flowchart\
+  ![gambar4](gambar/4_flowchart.PNG)
 
 ## PENJELASAN
   - Pada baris ke-3, menginstruksikan kita untuk memasukkan nilai **a**, kemudian akan disimpan dalam variabel `a` dalam bentuk integer.
@@ -42,7 +42,7 @@
 
     - `a=5`,`b=1`,`c=3`, _"Jika nilai `a` lebih besar dari `b`"_ **(ini benar)**, dan _"Jika nilai `a` lebih besar dari `c`"_ **(ini benar)**. Maka program berlanjut ke baris-8, _cetak nilai `a` ke layar_.
 
-\3_output\
+      ![gambar5](gambar/3_output.PNG)
 
   - Pada baris ke-9, ada klausa `elif` untuk pemilihan kondisi alternatif apabila `if` tidak terpenuhi. dan `and` merupakan operasi logika, hasilnya adalah _True_ jika kedua operatornya bernilai benar. Misalnya
 
@@ -50,7 +50,7 @@
 
     -  _"Jika nilai `b` lebih besar dari `a`"_ **(ini benar)**, dan _"Jika nilai `b` lebih besar dari `c`"_ **(ini benar)**. Maka program berlanjut ke baris-10, _cetak nilai `b` ke layar_.
 
-\3-1_output\
+      ![gambar6](gambar/3-1_output.PNG)
 
   - Pada baris ke-10, ada klausa `else` sebagai jalan akhir apabila klausa `if`, dan `elif` tidak terpenuhi. Misalnya
 
@@ -60,4 +60,4 @@
 
     - _cetak nilai `c` ke layar_.
 
-\3-2_output\
+      ![gambar7](gambar/3-2_output.PNG)
