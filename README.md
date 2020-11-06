@@ -1,3 +1,29 @@
+# DAFTAR TUGAS
+
+<table border="2" cellpading="10">
+  <tr>
+    <td><b>Pertemuan 4</b></td>
+    <td>Biodata</td>
+    <td>Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 5</b></td>
+    <td>Latihan VCS</td>
+    <td><a href="https://github.com/IlhamLamp/LatihanVCS">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 6</b></td>
+    <td>Lab1 dan 2</td>
+    <td><a href="https://github.com/IlhamLamp/ProjectPraktikum">Klik disini</td>
+  </tr>
+  <tr>
+    <td><b>Pertemuan 7</b></td>
+    <td>Lab3</td>
+    <td><a href="https://github.com/IlhamLamp/Lab3">Klik disini</td>
+  </tr>
+
+</table>
+
 # TUGAS PRAKTIKUM 2
 
 ## SOAL
@@ -25,11 +51,15 @@
 ![gambar2](gambar/2_kode.PNG)
   - Simpan dengan nama `labspy02.py`, Kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
 
-  ![gambar3](gambar/3_output.PNG)
+
+    ![gambar3](gambar/3_output.PNG)
+
 
   - Flowchart dari program tersebut
 
-  ![gambar4](gambar/4_flowchart.PNG)
+
+    ![gambar4](gambar/4_flowchart.PNG)
+
 
 ## PENJELASAN
   - Pada baris ke-3, menginstruksikan kita untuk memasukkan nilai **a**, kemudian akan disimpan dalam variabel `a` dalam bentuk integer.
@@ -42,7 +72,9 @@
 
     - `a=5`,`b=1`,`c=3`, _"Jika nilai `a` lebih besar dari `b`"_ **(ini benar)**, dan _"Jika nilai `a` lebih besar dari `c`"_ **(ini benar)**. Maka program berlanjut ke baris-8, _cetak nilai `a` ke layar_.
 
-      ![gambar5](gambar/3_output.PNG)
+
+        ![gambar5](gambar/3_output.PNG)
+
 
   - Pada baris ke-9, ada klausa `elif` untuk pemilihan kondisi alternatif apabila `if` tidak terpenuhi. dan `and` merupakan operasi logika, hasilnya adalah _True_ jika kedua operatornya bernilai benar. Misalnya
 
@@ -50,7 +82,9 @@
 
     -  _"Jika nilai `b` lebih besar dari `a`"_ **(ini benar)**, dan _"Jika nilai `b` lebih besar dari `c`"_ **(ini benar)**. Maka program berlanjut ke baris-10, _cetak nilai `b` ke layar_.
 
-      ![gambar6](gambar/3-1_output.PNG)
+
+        ![gambar6](gambar/3-1_output.PNG)
+
 
   - Pada baris ke-10, ada klausa `else` sebagai jalan akhir apabila klausa `if`, dan `elif` tidak terpenuhi. Misalnya
 
@@ -60,4 +94,5 @@
 
     - _cetak nilai `c` ke layar_.
 
-      ![gambar7](gambar/3-2_output.PNG)
+
+        ![gambar7](gambar/3-2_output.PNG)
