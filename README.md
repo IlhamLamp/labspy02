@@ -50,16 +50,26 @@
 
 ![gambar2](gambar/2_kode.PNG)
   - Simpan dengan nama `labspy02.py`, Kemudian jalankan program tersebut. Maka akan menampilkan output sebagai berikut
+  
 
+<<<<<<< HEAD
 
     ![gambar3](gambar/3_output.PNG)
 
+=======
+    ![gambar3](gambar/3_output.PNG)
+    
+>>>>>>> 5df63809dff3af290318985984139564e3715795
 
   - Flowchart dari program tersebut
 
 
     ![gambar4](gambar/4_flowchart.PNG)
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> 5df63809dff3af290318985984139564e3715795
 
 ## PENJELASAN
   - Pada baris ke-3, menginstruksikan kita untuk memasukkan nilai **a**, kemudian akan disimpan dalam variabel `a` dalam bentuk integer.
@@ -71,10 +81,16 @@
   - Di baris ke-7, ada klausa `if` untuk pilihan kondisi pertama, dan `and` merupakan operasi logika, hasilnya adalah _True_ jika kedua operatornya bernilai benar. Misalnya
 
     - `a=5`,`b=1`,`c=3`, _"Jika nilai `a` lebih besar dari `b`"_ **(ini benar)**, dan _"Jika nilai `a` lebih besar dari `c`"_ **(ini benar)**. Maka program berlanjut ke baris-8, _cetak nilai `a` ke layar_.
+    
 
+<<<<<<< HEAD
 
         ![gambar5](gambar/3_output.PNG)
 
+=======
+        ![gambar5](gambar/3_output.PNG)
+        
+>>>>>>> 5df63809dff3af290318985984139564e3715795
 
   - Pada baris ke-9, ada klausa `elif` untuk pemilihan kondisi alternatif apabila `if` tidak terpenuhi. dan `and` merupakan operasi logika, hasilnya adalah _True_ jika kedua operatornya bernilai benar. Misalnya
 
@@ -93,6 +109,10 @@
     -  _"Jika nilai `b` lebih besar dari `a`"_ **(ini benar)**, dan _"Jika nilai `b` lebih besar dari `c`"_ **(ini salah)**. Maka program loncat ke baris-11, kemudian 12
 
     - _cetak nilai `c` ke layar_.
+    
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5df63809dff3af290318985984139564e3715795
         ![gambar7](gambar/3-2_output.PNG)
