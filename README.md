@@ -21,6 +21,16 @@
     <td>Lab3</td>
     <td><a href="https://github.com/IlhamLamp/Lab3">Klik disini</td>
   </tr>
+  <tr>
+    <td></td>
+    <td>Labspy02</td>
+    <td><a href="https://github.com/IlhamLamp/labspy02">Klik disini</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Labpy03</td>
+    <td><a href="https://github.com/IlhamLamp/labpy03">Klik disini</td>
+  </tr>
 
 </table>
 
