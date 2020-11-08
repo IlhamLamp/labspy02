@@ -3,13 +3,13 @@
 <table border="2" cellpading="10">
   <tr>
     <td><b>Pertemuan 4</b></td>
-    <td>Biodata</td>
-    <td>Klik disini</td>
+    <td>Latihan VCS</td>
+    <td><a href="https://github.com/IlhamLamp/LatihanVCS">Klik disini</td>
   </tr>
   <tr>
     <td><b>Pertemuan 5</b></td>
-    <td>Latihan VCS</td>
-    <td><a href="https://github.com/IlhamLamp/LatihanVCS">Klik disini</td>
+    <td>Program Biodata</td>
+    <td><a href="https://github.com/IlhamLamp/Program-menginputkan-biodata">Klik disini</td>
   </tr>
   <tr>
     <td><b>Pertemuan 6</b></td>
